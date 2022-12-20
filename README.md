@@ -1,6 +1,10 @@
+Hi 🖐, I'm liver0377, a junior student, also a gamer. I like video games, and I like programming even more
 
 
-[![liver0377's GitHub stats](https://github-readme-stats.vercel.app/api?username=liver0377)](https://github.com/anuraghazra/github-readme-stats)
 
+- Porgramming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver0377&hide=html,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver0377&hide=html,javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+
